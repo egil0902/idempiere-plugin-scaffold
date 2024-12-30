@@ -2,7 +2,7 @@ Manifest-Version: 1.0
 Bundle-ManifestVersion: 2
 Bundle-Name: Plugin Example Test
 Bundle-SymbolicName: com.ingeint.example.test
-Bundle-Version: 11.0.0.qualifier
+Bundle-Version: 12.0.0.qualifier
 Bundle-Vendor: INGEINT <https://www.ingeint.com>
 Fragment-Host: com.ingeint.example
 Bundle-ClassPath: .,
